@@ -80,7 +80,7 @@ public class TheG020 extends JuniorRobot
     public void onHitWall()
 	{
 	    back(50);
-        turnRight(90);
+            turnRight(90);
     }  
 	public void attackMode()
 	{
@@ -95,5 +95,5 @@ public class TheG020 extends JuniorRobot
          back(90);
          turnLeft(90);   
 	}
-} 
+}
 ```
