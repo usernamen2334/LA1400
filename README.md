@@ -1,6 +1,6 @@
 # LA1400 
 
-```
+```java
 package Marku.Erik;
 import robocode.*;
 
